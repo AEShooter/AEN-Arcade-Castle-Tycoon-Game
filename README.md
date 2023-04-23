@@ -1,7 +1,4 @@
 # AEN-Arcade-Castle-Tycoon-Game
 
-<h1>TEST PUBLISH V1.1 FOR LINUX</h1>
-<h3>https://we.tl/t-mevfkZcKhw</h3>
-
-<h1>TEST PUBLISH V1.1 FOR WINDOWS</h1>
-<h3>https://we.tl/t-Wn9f4cG8Vi</h3>
+<h3>Test Release v1.2</h3>
+<p><b>https://github.com/AEShooter/AEN-Arcade-Castle-Tycoon-Game/releases/tag/test_version</b></p>
